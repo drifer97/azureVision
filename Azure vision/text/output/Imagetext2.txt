@@ -1,0 +1,232 @@
+
+An image of a red bicycle leaning against a tree in a forested area with text overlaid at an angle that says 'LIFE IS LIKE RIDING A BICYCLE TO KEEP YOUR BALANCE YOU MUST KEEP MOVING'
+Angled mage of a product label containing two columns of nutritional facts that say '[First column] Nutrition facts, Serving size: 1 bar (40g), Servings Per Package: 4, Amount Per Serving, Calories 190, Calories from Fat 110, Daily values are based on calorie diet, [Second column] Amount Per Serving, Total Fat 13g, Saturated Fat 1.5g, Trans Fat 0g, Cholesterol 0mg, Sodium 20mg, [remaining text is out of focus]'
+[
+  {
+    "lines": [
+      {
+        "text": "THE WORLD",
+        "boundingPolygon": [
+          {
+            "x": 539,
+            "y": 201
+          },
+          {
+            "x": 884,
+            "y": 213
+          },
+          {
+            "x": 882,
+            "y": 282
+          },
+          {
+            "x": 538,
+            "y": 270
+          }
+        ],
+        "words": [
+          {
+            "text": "THE",
+            "boundingPolygon": [
+              {
+                "x": 540,
+                "y": 202
+              },
+              {
+                "x": 650,
+                "y": 205
+              },
+              {
+                "x": 647,
+                "y": 275
+              },
+              {
+                "x": 538,
+                "y": 272
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "WORLD",
+            "boundingPolygon": [
+              {
+                "x": 663,
+                "y": 206
+              },
+              {
+                "x": 877,
+                "y": 214
+              },
+              {
+                "x": 874,
+                "y": 282
+              },
+              {
+                "x": 661,
+                "y": 275
+              }
+            ],
+            "confidence": 0.86
+          }
+        ]
+      },
+      {
+        "text": "IS MORE BEAUTIFUL",
+        "boundingPolygon": [
+          {
+            "x": 539,
+            "y": 359
+          },
+          {
+            "x": 1140,
+            "y": 376
+          },
+          {
+            "x": 1137,
+            "y": 455
+          },
+          {
+            "x": 536,
+            "y": 436
+          }
+        ],
+        "words": [
+          {
+            "text": "IS",
+            "boundingPolygon": [
+              {
+                "x": 540,
+                "y": 360
+              },
+              {
+                "x": 591,
+                "y": 362
+              },
+              {
+                "x": 587,
+                "y": 436
+              },
+              {
+                "x": 537,
+                "y": 434
+              }
+            ],
+            "confidence": 0.622
+          },
+          {
+            "text": "MORE",
+            "boundingPolygon": [
+              {
+                "x": 606,
+                "y": 362
+              },
+              {
+                "x": 787,
+                "y": 368
+              },
+              {
+                "x": 785,
+                "y": 444
+              },
+              {
+                "x": 603,
+                "y": 437
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "BEAUTIFUL",
+            "boundingPolygon": [
+              {
+                "x": 803,
+                "y": 369
+              },
+              {
+                "x": 1136,
+                "y": 376
+              },
+              {
+                "x": 1134,
+                "y": 456
+              },
+              {
+                "x": 800,
+                "y": 445
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "WITH YOU",
+        "boundingPolygon": [
+          {
+            "x": 834,
+            "y": 535
+          },
+          {
+            "x": 1127,
+            "y": 537
+          },
+          {
+            "x": 1127,
+            "y": 614
+          },
+          {
+            "x": 833,
+            "y": 611
+          }
+        ],
+        "words": [
+          {
+            "text": "WITH",
+            "boundingPolygon": [
+              {
+                "x": 837,
+                "y": 536
+              },
+              {
+                "x": 982,
+                "y": 536
+              },
+              {
+                "x": 980,
+                "y": 614
+              },
+              {
+                "x": 833,
+                "y": 611
+              }
+            ],
+            "confidence": 0.844
+          },
+          {
+            "text": "YOU",
+            "boundingPolygon": [
+              {
+                "x": 999,
+                "y": 537
+              },
+              {
+                "x": 1119,
+                "y": 538
+              },
+              {
+                "x": 1117,
+                "y": 615
+              },
+              {
+                "x": 996,
+                "y": 614
+              }
+            ],
+            "confidence": 0.984
+          }
+        ]
+      }
+    ]
+  }
+]
